@@ -12028,10 +12028,10 @@ swagger-cli@^4.0.4:
   dependencies:
     "@apidevtools/swagger-cli" "4.0.4"
 
-swagger-ui-dist@4.12.0:
-  version "4.12.0"
-  resolved "https://registry.yarnpkg.com/swagger-ui-dist/-/swagger-ui-dist-4.12.0.tgz#986d90f05e81fb9db3ca40372278a5d8ce71db3a"
-  integrity sha512-B0Iy2ueXtbByE6OOyHTi3lFQkpPi/L7kFOKFeKTr44za7dJIELa9kzaca6GkndCgpK1QTjArnoXG+aUy0XQp1w==
+swagger-ui-dist@4.19.0:
+  version "4.19.0"
+  resolved "https://registry.yarnpkg.com/swagger-ui-dist/-/swagger-ui-dist-4.19.0.tgz#33c927f36ccac20fcfb5f0f70ad422ab0ee9e3c3"
+  integrity sha512-9C9fJGI18gK5AhaU5YRyPY1lXJH4lmWh8h9zFMrJBkYzdRjCbAzYl1ayWPYgwFvag/Luqi3Co599OK/39IS2QQ==
 
 symbol-observable@^1.0.4:
   version "1.2.0"
