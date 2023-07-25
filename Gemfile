@@ -57,7 +57,7 @@ gem 'doorkeeper-openid_connect', '~> 1.8', '>= 1.8.7'
 gem 'rexml', '~> 3.2.5'
 gem 'ruby-saml', '~> 1.15.0'
 gem 'omniauth', '~> 2.1.0'
-gem 'omniauth-auth0', '~> 3.1'
+gem 'omniauth-auth0', '~> 3.1', '>= 3.1.1'
 gem 'omniauth-azure-activedirectory-v2', '~> 2.0'
 gem 'omniauth-azure-oauth2', '~> 0.0.9', path: 'vendor/gems/omniauth-azure-oauth2' # See gem README.md
 gem 'omniauth-dingtalk-oauth2', '~> 1.0'
